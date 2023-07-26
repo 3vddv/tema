@@ -1,0 +1,478 @@
+
+*{border-color: #eeeade  !important;}
+*{background-color: #eeeade !important;}
+*{background: #eeeade !important;}
+*{color: black !important;}
+*{color: #000 !important;}
+*{border-radius: 0 !important;}
+*{line-height: 2 !important;}
+*{-webkit-text-stroke: 0.4px !important;}
+*{-moz-text-stroke: 0.4px !important;}
+*{-webkit-text-stroke-color: unset !important;}
+*{line-break: anywhere !important;}
+*{-moz-text-stroke-color: unset !important;}
+*{text-decoration: none !important;}
+*{text-decoration-color: #000 !important;}
+*{text-shadow: 0px 0px 0px #000 !important;}
+*{font-weight: normal !important;}
+*{font-size: 15px !important;}
+*{font-size-adjust: unset !important;} 
+*{text-transform: lowercase !important;}
+*{font-style: normal !important;}
+*{font-family: helvetica !important;}
+body {
+    font-family: Helvetica !important;
+}
+*{letter-spacing: normal !important;}
+*{word-spacing: normal !important;}
+body {margin-bottom: 5px !important;}
+body {margin-left: 5px !important;}
+body {margin-right: 5px !important;}
+body {margin-top: 5px  !important;}
+body {padding-bottom: 10px !important;}
+body {padding-left: 12px !important;}
+body {padding-right: 12px !important;}
+body {padding-top: 5px !important;}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: none;}
+a:active { text-decoration: none;}
+a:link {background-color: none;}
+a:visited {background-color: none;}
+a:hover {background-color: none;}
+a:active {background-color: none;} 
+a:link {color: #000;}
+a:visited {color: #000;}
+a:hover {color: #000;}
+a:active {color: #000;}
+textarea, input, button, menu {color: #000 !important;}
+textarea, input, button, menu {border-color: #000 !important;} 
+textarea, input, button, menu {border-width: 1.3px !important;}
+textarea, input, button, menu {border-style: solid !important;}
+path {fill: #000 !important;}
+.path {fill: #000 !important;}
+svg {fill: #000 !important;}
+.svg {fill: #000 !important;}
+.eksico > use {fill: #000 !important;}
+
+
+
+.breakWord {word-break: break-word;}
+*{word-wrap: break-word;}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #eeeade;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #eeeade;
+    opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #eeeade;
+    opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #eeeade;
+}
+
+
+
+#logo {opacity: 0;}
+
+#a3-toggle {
+                                                                                                                                                                                                                        border-bottom: solid 1.3px #000 !important;
+                                                                                                                                                                                                                        border-top: solid 1.3px #000 !important;
+                                                                                                                                                                                                                        border-right: solid 1.3px #000 !important;
+
+width: 55px;
+                                                                                                                                                                                                                          height: 29px;
+                                                                                                                                                                                                                            padding: 0px;
+                                                                                                                                                                                                                              margin: 0px;}                                                                                                                                                                                                                  
+                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+
+
+button {
+  background-color: #eeeade;
+  border-color: #777;
+  border-width: 1.5px;
+  position: centered;
+  align-items: center;
+  color: #000;
+  text-align: center;
+  text-decoration: none !important;
+  display: inline-block;
+  font-size: 15.5px;
+  }
+
+.checkbox > input {
+    height: 25px;
+    width: 25px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    border: 1px solid #000;
+    border-radius: 4px;
+    outline: none;
+    transition-duration: 0.3s;
+    background-color: #eeeade;
+    cursor: pointer;
+  }
+ 
+
+
+footer, .open.toggles-menu.dropdown-menu > li, .open.toggles-menu.dropdown-menu > li, #in-topic-search-options [href^="/"] {border-bottom: solid 1.3px #777 !important;} 
+
+
+.b, .url, sup.ab {border-bottom: double 3px #000 !important;}  
+
+
+
+.more-data.next-link, .more-data.prev-link, .load-more-entries, .profile-relation-button {
+  border: 1px solid #777;
+  background-color: #eeeade;
+  color: black;
+  cursor: pointer;
+}
+
+ .read-more-link-wrapper > a {color: #777;}
+
+.eksico, use {
+background-color: #eeeade !important; 
+border-color: transparent !important;
+}
+
+
+form {background-color: #eeeade;}
+form {border: 0px solid #eeeade; padding: 5px;}
+
+  
+.container {
+background-color: #eeeade !important;
+border-color: #000;
+}
+
+.mobile-notification-icons {
+background-color: #eeeade !important;
+border-color: #000;
+}
+
+.toggles:after {border-top: 1px solid black !important;}
+
+.topic-list li {
+    border-top: 1px solid #777 !important;
+}
+
+.eksico {
+fill: black !important;}
+
+.pager > a {
+    border: 1px solid #eeeade;
+    background: #eeeade !important;
+}
+
+.pager select {
+    height: 24px;
+    border: 1px solid #eeeade;
+    background: #eeeade !important;
+}
+
+
+.content [href*="swh"] {
+display: none !important;
+}
+
+
+.ads {
+    display: none !important;
+}
+
+#search-box-ad {
+    display: none !important;
+}
+
+#embedded-player {
+    display: none !important;
+}
+
+.under-top-ad {
+    display: none !important;
+}
+ 
+#site-footer {
+    display: none !important;
+}
+
+ [href="/basliklar/m/sorunsal"] {
+    display: none !important;
+}
+
+ .pena-logo-mobile.no-hover.mobile-only {
+    display: none !important;
+}
+
+ [href^="/olan-biten--121889"] {
+    display: none !important;
+}
+
+ .eksiseyler-logo-mobile.no-hover.mobile-only > [href="https://seyler.eksisozluk.com"] {
+    display: none !important;
+}
+
+iframe.lazy-loaded.lazy {
+    display: none !important;
+}
+ 
+.avatar {
+    display: none !important;
+}
+
+iframe.lazy {
+    display: none !important;
+}
+ 
+.eksiseyler-logo-mobile.no-hover.mobile-only {
+    display: none !important;
+}
+ 
+.read-more-link-wrapper > a > .eksico, .user-profile-badge-item {
+    display: none !important;
+}
+
+#user-image-badges {
+    display: none !important;
+}
+
+.search-box-ad {
+    display: none !important;
+}
+
+#aside {
+    display: none !important;
+}
+
+#disambiguations {
+    display: none !important;
+}
+
+#search-form > button {display: none !important;
+}
+
+h2 {display: none !important;
+}
+
+.share-buttons {display: none !important;
+}
+
+.meta-stats.col-xs-7 > svg.eksico {display: none !important;
+}
+
+.eksico-color-green.eksico {display: none !important;
+}
+
+a.more-data.showall:nth-of-type(1) {display: none !important;
+}
+
+a.more-data.showall:nth-of-type(2) {display: none !important;
+}
+
+
+#search-form > .ui-autocomplete-input {
+border-bottom: solid 1.3px #000 !important;
+border-top: solid 1.3px #000 !important;
+border-right: solid 1.3px #000 !important;
+border-left: solid 1.3px #000 !important;
+
+width: 120px;
+                                                                                                                                                                                                                          height: 29px;
+                                                                                                                                                                                                                            padding: 0px;
+                                                                                                                                                                                                                              margin: 0px;}                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                        
+
+
+#top-bar > .inline {
+width: 220px;
+  height: 50px;
+  padding: 5px;
+  margin: 5px;}
+  
+
+
+#advanced-search-form {
+border-bottom: solid 1.3px #000 !important;
+border-top: solid 1.3px #000 !important;
+border-right: solid 1.3px #000 !important;
+border-left: solid 1.3px #000 !important;}
+
+#SearchForm_SortOrder {
+border-bottom: solid 1.3px #000 !important;
+border-top: solid 1.3px #000 !important;
+border-right: solid 1.3px #000 !important;
+border-left: solid 1.3px #000 !important;}
+
+.open.toggles-menu.dropdown-menu  {
+border-bottom: solid 1.3px #000 !important;
+border-top: solid 1.3px #000 !important;
+border-right: solid 1.3px #000 !important;
+border-left: solid 1.3px #000 !important;}
+
+#in-topic-search-options  {
+border-bottom: solid 1.3px #000 !important;
+border-top: solid 1.3px #000 !important;
+border-right: solid 1.3px #000 !important;
+border-left: solid 1.3px #000 !important;}
+
+#advanced-search-result-form {
+border-bottom: solid 1.3px #000 !important;
+border-top: solid 1.3px #000 !important;
+border-right: solid 1.3px #000 !important;
+border-left: solid 1.3px #000 !important;}
+
+.open.toggles-menu.favorite-list-popup  {
+border-bottom: solid 1.3px #000 !important;
+border-top: solid 1.3px #000 !important;
+border-right: solid 1.3px #000 !important;
+border-left: solid 1.3px #000 !important;}
+
+#login-signup {
+border-bottom: solid 1.3px #000 !important;
+border-top: solid 1.3px #000 !important;
+border-right: solid 1.3px #000 !important;
+border-left: solid 1.3px #000 !important;}
+
+
+
+.sub-title-menu > [href*="/sorunsallar/"] {
+display: none !important;
+}
+
+.content [href*="kips"] {
+display: none !important;
+}
+
+
+.editform {
+    background-color: #eeeade;
+}
+.editform .actions #save-draft-button {
+    color: #000;
+}
+.editform fieldset {
+    padding:0;
+    margin: 0;
+}
+.edit-form-options .dropdown-toggle:after {
+    border-top: 4px solid #666;
+}
+
+
+.ui-autocomplete {
+    background-color: #eeeade;
+    border: 1px solid #000;
+}
+
+.ui-autocomplete > li > div {
+    padding: 5px 10px;
+    color: #000;
+}
+
+.ui-autocomplete > li > div.ui-state-active,
+.ui-autocomplete > li > div:hover {
+    padding: 5px 10px;
+    background-color: #eeeade !important;
+    color: #000 !important;
+}
+.ui-autocomplete > li a.ui-state-focus,
+.ui-autocomplete > li a:hover {
+    background-color: #eeeade;
+    color: #000;
+}
+.ui-autocomplete:before {
+    border-right: 7px solid transparent;
+    border-bottom: 7px solid #000;
+    border-left: 7px solid transparent;
+}
+.ui-autocomplete:after {
+    border-right: 7px solid transparent;
+    border-bottom: 7px solid #000;
+    border-left: 7px solid transparent;
+}
+.ui-autocomplete > li a {
+    color: #000;
+}
+
+#svg-verified-badge > use  {
+display: none !important;}
+
+.verified-badge.eksico  {
+display: none !important;}
+
+.verified-badge-large.eksico  {
+display: none !important;}
+
+#pinned-icon > .eksico  {
+display: none !important;}                                                                                                                                                                                                                    
+                                                                                                                                                                                                                   
+
+.pena-logo-mobile.no-hover.mobile-only > [href="https://www.youtube.com/penavideo"] {
+display: none !important;
+}
+
+.pena-logo-mobile.no-hover.mobile-only {
+display: none !important;
+}
+
+.eksiseyler-logo-mobile.no-hover.mobile-only > [href] > [src] {
+display: none !important;
+}
+
+.eksiseyler-logo-mobile.no-hover.mobile-only > [href="https://seyler.eksisozluk.com"] {
+display: none !important;
+}
+
+.eksiseyler-logo-mobile.no-hover.mobile-only {
+display: none !important;
+}
+
+.sub-title-menu > [href] {
+display: none !important;
+}
+
+.dropdown.other {
+display: none !important;
+}
+
+.rate-options {
+display: none !important;
+}
+
+.dropdown.entry-share {
+display: none !important;
+}
+
+#entry-block-text > p {
+display: none !important;
+}
+
+#subscriber-badge-entry {
+display: none !important;
+}
+
+
+#subscriber-badge {
+display: none !important;
+}
+
+#pinned-entry {
+display: none !important;
+}
+
+#in-topic-nice-options > li  {
+border-bottom: solid 1.3px #000 !important;
+border-top: solid 1.3px #000 !important;
+border-right: solid 1.3px #000 !important;
+border-left: solid 1.3px #000 !important;}
+
+ 
