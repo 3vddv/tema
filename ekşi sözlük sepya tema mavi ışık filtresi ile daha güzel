@@ -1,4 +1,3 @@
-
 *{border-color: #eeeade  !important;}
 *{background-color: #eeeade !important;}
 *{background: #eeeade !important;}
@@ -9,7 +8,6 @@
 *{-webkit-text-stroke: 0.4px !important;}
 *{-moz-text-stroke: 0.4px !important;}
 *{-webkit-text-stroke-color: unset !important;}
-*{line-break: anywhere !important;}
 *{-moz-text-stroke-color: unset !important;}
 *{text-decoration: none !important;}
 *{text-decoration-color: #000 !important;}
@@ -55,8 +53,6 @@ svg {fill: #000 !important;}
 .svg {fill: #000 !important;}
 .eksico > use {fill: #000 !important;}
 
-
-
 .breakWord {word-break: break-word;}
 *{word-wrap: break-word;}
 
@@ -74,8 +70,6 @@ svg {fill: #000 !important;}
 :-ms-input-placeholder { /* Internet Explorer 10+ */
     color:    #eeeade;
 }
-
-
 
 #logo {opacity: 0;}
 
